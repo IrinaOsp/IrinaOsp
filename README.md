@@ -31,19 +31,13 @@
 
 ## :fire: My Stats :
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=irinaosp" />
-</a>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=IrinaOsp&show_icons=true&include_all_commits&theme=algolia&count_private=true&hide=stars)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrinaOsp&layout=compact&langs_count=8&theme=algolia)
+
+[//]: # (https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IrinaOsp&theme=algolia&include_all_commits=true&count_private=true)
 
 
-
-
-[//]: <> 
-( <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irinaosp" />
-</a> )
-
-[![codewars](https://www.codewars.com/users/IrinaOsp/badges/micro)](https://www.codewars.com/users/IrinaOsp)   
+[![codewars](https://www.codewars.com/users/IrinaOsp/badges/large)](https://www.codewars.com/users/IrinaOsp)   
 
 ---
 [![](https://visitcount.itsvg.in/api?id=IrinaOsp&label=Profile%20Views&icon=2&pretty=false)](https://visitcount.itsvg.in)
